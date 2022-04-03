@@ -33,7 +33,7 @@ git clone https://github.com/laravel/laravel.git example-project
 Vamos copiar os arquivos docker-compose.yml, Dockerfile e o diretório docker para o nosso 
 projeto recente criado.
 ```sh
-cp -r laravel_docker_v8/* example-project/
+cp -r laravel_docker_v9/* example-project/
 ```
 
 Acesse a pasta do seu projeto (example-project) e vamos criar o arquivo *.env*
