@@ -22,7 +22,7 @@
 
 Clone o repositório 
 ```sh
-git clone https://github.com/labdockers/laravel_docker_v8.git
+git clone https://github.com/labdockers/laravel_docker_v9
 ```
 
 Clone o repositório para criar um projeto do Laravel mais recente
